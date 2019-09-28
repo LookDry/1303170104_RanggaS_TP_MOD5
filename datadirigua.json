@@ -1,0 +1,13 @@
+{"data diri" : {
+	"Home" :{
+	"nama" : "RanggaS",
+	"nim" : "1303170104",
+	"kelas" : "IT-41-01"
+	},
+	"About" : "Saya RanggaS yang terbuat dari Es",
+	"Hobbie" : ["denger musik ampe modar","ngoprek sesuatu yang bikin penasaran","ngegame"],
+	"Skill" : ["game bisa lah","ngoding bisa tapi dasar","bisa belajar cepet walaupun sedikit salah kaprah"],
+	"Education" : ["SD ada 3", "SMP ada 2 pas lulus g dpt ijazah", "SMKN BOEDOET"],
+	"experience" : ["tidur","makan","mandi","nugas","bisa ngerjain tugas yang agak sulit boleh jugaa"]
+}
+}
